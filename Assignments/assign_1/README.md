@@ -41,6 +41,13 @@ I will be using the scale below to rate any issues with the apps I evaliate:
 
 ## First App: [Kast](https://www.kastapp.co/)
 
+Kast is a social app that allows users to watch movies, TV shows, and live streams together with friends and family. It was previously known as "Rabbit" but rebranded in 2019 as "Kast."
+
+With Kast, users can create virtual "parties" and invite friends to join. Once in a party, users can stream content from popular platforms like Netflix, Amazon Prime Video, or Hulu, or they can share their own screen to watch content from their personal collection.
+
+In addition to watching content, Kast has chat and voice chat features, allowing users to communicate with each other while they watch. This makes it a nice way to stay connected with friends or family members who are far away.
+
+
 
 
 ## Second App: [Discord](https://discord.com/)

@@ -31,7 +31,7 @@ We will take an in depth look at spacific apps mentioned above and see if there 
 
 ### Explination of [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
 
-The following rating scale can be used to evaluate the severity of usability issues:
+I will be using the scale below to rate any issues with the apps I evaliate:
 | Rating | Description |
 |---|---|
 | 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |

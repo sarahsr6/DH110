@@ -1,7 +1,7 @@
 # Connecting via Watchparties 
 ### DH110: User Ecperience and Design
 
-##### Sarah Redden
+#### by: Sarah Redden
 
 When people had to social distance and stay home, there was a great need to find online activities to stay in touch with friends while staying safe. Phone calls are ok, but people need activities to take up the endless amount of time it felt we all had. One of my favorite things to do when I want to relax is watch a good movie or show with friends. However, that wasn't possible in quarentine. Instead we would use apps to share our streaming shows with eachother, but they had some faults that made it difficult sometimes. 
 

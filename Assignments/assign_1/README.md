@@ -51,9 +51,20 @@ In addition to watching content, Kast has chat and voice chat features, allowing
 
 ### Evaluation
 
+Kast can be used on the computer or as an app on the phone/tablet. Looking at it on the computer, there are some clear differences in quality, esthetic, and usability. 
+
 | Main Page: | Kast Party: |
 | --- | --- |
 | ![Kast Main Page](KastMain.png) | ![Kast Party](kastParty.png) |
+
+Looking at the view on the laptop, it is a fairly straightforeward website that is very easy to use. On the main page you can easily create a party then click to join. Once you join, there is a group chat bar on the side that allows you to chat with friends in the party. At the bottom, there are symblols that clearly allow you to either share your screen, turn on your camera/mike, or share link with friends. Overall the website is a simple design that works similar to zoom. 
+
+However, I did encounter many issues when using the app on my phone or tablet. It is advertized to be exactly the same thing, but even by looks it is clearly not. 
+
+| Main Page: | Kast Party: |
+| --- | --- |
+| ![Kast Main Page](kastApp.png) | ![Kast Party](kastAp.png) |
+
 
 ### Heuristic Evaluation
 

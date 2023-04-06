@@ -55,7 +55,7 @@ Kast can be used on the computer or as an app on the phone/tablet. Looking at it
 
 | Main Page: | Kast Party: |
 | --- | --- |
-| ![Kast Main Page](KastMain.png) | ![Kast Party](kastParty.png) |
+| ![Kast Main Page](KastMain.png) | ![Kast Party](kastparty.png) |
 
 Looking at the view on the laptop, it is a fairly straightforeward website that is very easy to use. On the main page you can easily create a party then click to join. Once you join, there is a group chat bar on the side that allows you to chat with friends in the party. At the bottom, there are symblols that clearly allow you to either share your screen, turn on your camera/mike, or share link with friends. Overall the website is a simple design that works similar to zoom. 
 

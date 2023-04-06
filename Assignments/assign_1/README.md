@@ -47,19 +47,19 @@ With Kast, users can create virtual "parties" and invite friends to join. Once i
 
 In addition to watching content, Kast has chat and voice chat features, allowing users to communicate with each other while they watch. This makes it a nice way to stay connected with friends or family members who are far away.
 
-#### Evaluation
+### Evaluation
 
 | Main Page: | Kast Party: |
 | --- | --- |
 | ![Kast Main Page](KastMain.png) | ![Kast Party](kastParty.png) |
 
-#### Heuristic Evaluation
+### Heuristic Evaluation
 
 
 ## Second App: [Discord](https://discord.com/)
 
 
-#### Evaluation
+### Evaluation
 
-#### Heuristic Evaluation
+### Heuristic Evaluation
 

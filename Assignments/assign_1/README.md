@@ -17,16 +17,16 @@ We will take an in depth look at spacific apps mentioned above and see if there 
 
 | Number | Heuristic | Description |
 |---|---|---|
-| #1 | Visibility of System Status | Users should always be informed about what is going on and should be given appropriate feedback to their actions |
-| #2 | Match Between System and the Real World | Use concepts and language that are familiar and logical to the user |
-| #3 | User Control and Freedom | Allow users to make mistakes; give them options to undo and redo tasks |
-| #4 | Consistency and Standards | Follow conventions and make sure design is consistent across the platform |
-| #5 | Error Prevention | Get rid of error-prone conditions and provide users with safety nets for high-cost errors |
-| #6 | Recognition Rather Than Recall | Minimize user's memory load by giving them suggestions and help in context |
-| #7 | Flexibility and Efficiency of Use | Provide multiple ways to perform a task to make the platform accessible to all users |
-| #8 | Aesthetic and Minimalist Design | Provide only relevant content and features |
-| #9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide suggestions to fix it |
-| #10 | Help and Documentation | Supply users with extra help to complete their tasks |
+| #1 | Visibility of System Status | Users, by design, should be informed about what is going on through feedback |
+| #2 | Match Between System and the Real World | The design should use words and phrases familliar to the user and follow real world conventions |
+| #3 | User Control and Freedom | Needs to have an undo or exit because users are expected to make mistakes.. users need control |
+| #4 | Consistency and Standards | Follows industry conventions so that users dont have to wonder whether different words or actions mean the same thing |
+| #5 | Error Prevention | Eliminate all error prone conditions so users dont encounter any errors |
+| #6 | Recognition Rather Than Recall | Users shouldnt have to remember informations from one part of the interface to another. Make any needed info visable |
+| #7 | Flexibility and Efficiency of Use | Shortcuts for more experienced users are nice to speed up interaction so it caters to novice and experienced users |
+| #8 | Aesthetic and Minimalist Design | Should not contain info that is irrelivant or rarely needed as to not diminish relative visibility |
+| #9 | Help Users Recognize, Diagnose, and Recover From Errors | Error messages should indicate the problem in plain language and suggest a clear solution |
+| #10 | Help and Documentation | System shouldnt need additional explanations, but it may be necessary to help users understand how to compete some tasks |
 
 
 ### Explination of [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  

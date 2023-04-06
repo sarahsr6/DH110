@@ -1,5 +1,6 @@
-# Connecting via Watchparties.. Heuristic Evaluation
-### Sarah Redden
+# Connecting via Watchparties
+## Heuristic Evaluation
+##### Sarah Redden | DH110 User Interface and Design
 
 
 

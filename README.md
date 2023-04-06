@@ -10,6 +10,6 @@ https://www.ucla.edu/
 
 [lets go to UCLA](https://www.ucla.edu/)
 
-
+![dummy image](uclaIMAGE.png)
 
 

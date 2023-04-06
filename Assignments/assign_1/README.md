@@ -1,2 +1,2 @@
-# Connecting via Watchparties Heuristic Evaluation
+# Connecting via Watchparties.. Heuristic Evaluation
 ### Sarah Redden

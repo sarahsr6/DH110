@@ -1,4 +1,5 @@
-# DH110 Project: Connecting via Watchparties 
+# Connecting via Watchparties 
+### DH110: User Ecperience and Design
 
 ##### Sarah Redden
 

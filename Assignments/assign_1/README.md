@@ -13,7 +13,7 @@ The rise of online streaming apps and platforms during the COVID-19 pandemic has
 We will take an in depth look at spacific apps mentioned above and see if there is any way to make streaming and connecting easier. I will do this using Jakob Nielson's 10 Usability Heuristics as desgribed below:
 
 
-### [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) 
+### Explination of [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) 
 
 | Number | Heuristic | Description |
 |---|---|---|
@@ -29,7 +29,7 @@ We will take an in depth look at spacific apps mentioned above and see if there 
 | #10 | Help and Documentation | Supply users with extra help to complete their tasks |
 
 
-### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
+### Explination of [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
 
 The following rating scale can be used to evaluate the severity of usability issues:
 | Rating | Description |

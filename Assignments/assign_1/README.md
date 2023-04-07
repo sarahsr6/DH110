@@ -92,5 +92,19 @@ The app gives users much less control. You cant share your screen, or create you
 
 ### Evaluation
 
+
+
 ### Heuristic Evaluation
 
+| *Heuristic* | *Evaluation* | *Recommendation* | *Rating* |
+| --------- | ---------- | -------------- | ------ |
+| 1. Visibility of System Status |  |  |  |
+| 2. Match Between System and the Real World |  |  |  |
+| 3. User Control and Freedom |  |  |  |
+| 4. Consistancy and Standards |  |  |  |
+| 5. Error Prevention |  |  |  |
+| 6. Recognition Rather than Recall |  |  |  |
+| 7. Flexibility and Efficiency of Use |  |  |  |
+| 8. Aesthetic and Minimalistic Design |  |  |  |
+| 9. Help Users Recognise, Diagnose, and Recover from Errors |  |  |  |
+| 10. Help and Documentation |  |  |  |

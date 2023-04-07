@@ -98,8 +98,8 @@ The app gives users much less control. You cant share your screen, or create you
 
 | *Heuristic* | *Evaluation* | *Recommendation* | *Rating* |
 | --------- | ---------- | -------------- | ------ |
-| 1. Visibility of System Status |  |  |  |
-| 2. Match Between System and the Real World |  |  |  |
+| 1. Visibility of System Status | enging calls not intuative , no notificatons while using, joining servers confusing |  |  |
+| 2. Match Between System and the Real World | discord server is not normal for typical users, say oops and do talk in natural languige |  |  |
 | 3. User Control and Freedom |  |  |  |
 | 4. Consistancy and Standards |  |  |  |
 | 5. Error Prevention |  |  |  |

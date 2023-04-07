@@ -71,7 +71,7 @@ The app gives users much less control. You cant share your screen, or create you
 
 | *Heuristic* | *Evaluation* | *Recommendation* | *Rating* |
 | --------- | ---------- | -------------- | ------ |
-| 1. Visibility of System Status | The website shows you who is in a room before you enter a party, which is very nice. Once you get in that room, it feels empty because there is no representation of who is actually in there. Other than that, the website is pretty clear about what sate everything is in like connecton, messages and streaming. | I think they should implement bubbles or boxes that represent the people in the room so you can see who is there even if their camera is turned off. This is important users can tell who is watching and who logged off. | 2 |
+| 1. Visibility of System Status | - The website shows you who is in a room before you enter a party, which is very nice. Once you get in that room, it feels empty because there is no representation of who is actually in there. - Other than that, the website is pretty clear about what sate everything is in like connecton, messages and streaming. | I think they should implement bubbles or boxes that represent the people in the room so you can see who is there even if their camera is turned off. This is important users can tell who is watching and who logged off. | 2 |
 
 
 

@@ -95,7 +95,11 @@ Discord is a communication platform designed for communities, groups, and indivi
 
 ### Evaluation
 
+Overall, Discord is a well-designed and versatile communication platform that offers a range of features to its users. Its user interface is intuitive and easy to navigate, which makes it accessible for most users. The platform's features, including voice and video chat, screen sharing, and the ability to create custom servers and channels, provide users with a powerful toolset for communication and collaboration.
 
+However, for beginners, Discord can be quite overwhelming, especially if they are not familiar with the concept of online communities or the various features the platform offers. The platform has a steep learning curve, which can make it challenging for users to navigate and understand all of its features. Some of the platform's advanced features, such as the ability to create custom bots or set up complex server permissions, require a significant amount of technical knowledge, which may be a barrier for less tech-savvy users.
+
+While Discord is a powerful and versatile communication platform, its complexity and steep learning curve may make it challenging for beginners to use effectively. However, with some guidance and practice, most users should be able to navigate the platform and take advantage of its features.
 
 ### Heuristic Evaluation
 

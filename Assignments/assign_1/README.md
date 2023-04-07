@@ -71,7 +71,8 @@ The app gives users much less control. You cant share your screen, or create you
 
 | *Heuristic* | *Evaluation* | *Recommendation* | *Rating* |
 | --------- | ---------- | -------------- | ------ |
-| 1. Visibility of System Status | info herenabddfbdbfj | more info | 2 |
+| 1. Visibility of System Status | 
+The website chooses  | more info | 2 |
 
 ## Second App: [Discord](https://discord.com/)
 

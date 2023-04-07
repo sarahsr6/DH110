@@ -100,8 +100,8 @@ The app gives users much less control. You cant share your screen, or create you
 | --------- | ---------- | -------------- | ------ |
 | 1. Visibility of System Status | enging calls not intuative , no notificatons while using, joining servers confusing |  |  |
 | 2. Match Between System and the Real World | discord server is not normal for typical users, say oops and do talk in natural languige |  |  |
-| 3. User Control and Freedom |  |  |  |
-| 4. Consistancy and Standards |  |  |  |
+| 3. User Control and Freedom | not great exits.. troubles hanging up, users are confused what mistake they even made so they dont know where to exit, no clear undo button or redo |  |  |
+| 4. Consistancy and Standards | logo is direct messages, hashtag means message, speaker is server call, donk know when you accidentally call, 2 seporate locations for dm, also phone app is much harder, different controls  |  |  |
 | 5. Error Prevention |  |  |  |
 | 6. Recognition Rather than Recall |  |  |  |
 | 7. Flexibility and Efficiency of Use |  |  |  |

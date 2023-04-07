@@ -89,6 +89,8 @@ The app gives users much less control. You cant share your screen, or create you
 
 ## Second App: [Discord](https://discord.com/)
 
+Discord is a communication platform designed for communities, groups, and individuals to connect, chat, and collaborate online. It was initially created for gamers to chat with each other during online gameplay, but it has since expanded to a wide range of communities with different interests. Discord offers voice, video, and text chat, making it a versatile platform for all types of communication. People use Discord to form online communities, host events, share resources, collaborate on projects, and much more. It has become increasingly popular for remote work and online education as well. With its easy-to-use interface, Discord has become a go-to platform for millions of people around the world to connect and engage with others.
+
 ![Discord app](discord.png) 
 
 ### Evaluation

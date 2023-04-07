@@ -89,6 +89,7 @@ The app gives users much less control. You cant share your screen, or create you
 
 ## Second App: [Discord](https://discord.com/)
 
+![Discord app](discord.png) 
 
 ### Evaluation
 

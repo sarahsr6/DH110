@@ -65,9 +65,13 @@ However, I did encounter many issues when using the app on my phone or tablet. I
 | --- | --- |
 | ![Kast Main Page](kastApp.png) | ![Kast Party](kastAp.png) |
 
+The app gives users much less control. You cant share your screen, or create your own parties. Even when you join a party, there are many errors because it doesnt work more than half of the time. Because the app is less developed, I will focus on the website during the evaluation and add only some commentairy on the app.
 
 ### Heuristic Evaluation
 
+| *Heuristic* | *Evaluation* | *Recommendation* | *Rating* |
+| --------- | ---------- | -------------- | ------ |
+| #1. Visibility of System Status | info herenabddfbdbfj | more info | 2 |
 
 ## Second App: [Discord](https://discord.com/)
 

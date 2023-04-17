@@ -20,6 +20,15 @@ Video Link: [Click here](https://www.youtube.com/watch?v=YSFol5_dSkc)
 
 ## Findings
 
+Overall, this seemed to be a pretty good test which covered most every function in Discord. We covered adding and communicating with siglal friends, creating a group for multiple friends, and how to share media with everyone. The tester also did a good job at verbalizing concerns and issues she had, but was able to figure out every task eventually. This is what makes the video data a bit more helpful than the survey itself.
+
+In ternms of consistancy and standards, it was prevalent that the tester had issues figuring out what some buttons were. She had to slowly hover over every button for the description to come up before understanding what it did. This is because Discord's symbols aren't completely standard compared to zoom or facebooks messanger.
+
+It was also clear that discord has a rather compeles design, which overwhelmed the user at many points. There is a bright green button at the top that says "add friends". When the user was told to add a friend, it took a good long while to find the button. This was a great test for design because the button was simply at the top and very clear, but there is just so much on the page that it blends in and makes it hard to find anything, especially to a new user. 
+
+Finally, the visiblility of system status was also verbally expressed to have caused the user difficulties. When she was in a server, she didnt really know what that meant, or that she was even in a call. This was definately problematic.
+
+I think these tests were pretty good, but if I were to do this again, I would have a helper test the discord calls next time. It was hard for me to be in 2 calls at once on different apps, which caused some little issues. I think I would have someone on standby in a different room so they can do test calls without getting any weird feedback from calls being too close together. I would also probabably give less help to the tester and emplisize more it is ok if they cant complete the task.
 
 
 

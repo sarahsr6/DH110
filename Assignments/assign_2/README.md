@@ -12,7 +12,7 @@ Having a new user is perfect to test consistancy and design because it shows how
 ## Testing Materials and Data
 In order to test this, I wanted to create an enviornment similar to what it would be like chatting with friends from a distance. I set up a zoom call with my mom so she can do it in the confort from her own home with her own laptop. I sent her the survey link and told her to just open a google tab since I wanted to test the app from start to finish, including her opening the app. Then I had her share her screen and we pressed record on the testing video.
 
-Survey Link: 
+Survey Link: [Click here](https://docs.google.com/forms/d/e/1FAIpQLSf_KwcTOU1vB5CNnQj1k2XsKorll6zh67CcyD3ZCyR0YYcAjA/viewform?usp=sf_link)
 
 Video Link: [Click here](https://www.youtube.com/watch?v=YSFol5_dSkc)
 

@@ -19,6 +19,8 @@ From grandparents who may be less familiar with technology, to teenagers who use
 
 
 ## Research Methods
+In order to conduct some research on how people typically share media and chat with friends, I decided to use 2 methods of research: participatory observation and an interview. 
+
 
 
 ## Interview Observations and Insights

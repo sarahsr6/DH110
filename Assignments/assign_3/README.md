@@ -13,8 +13,14 @@ To achieve this, the design process will involve a thorough analysis of user nee
 The ultimate goal of this project is to create an app that serves as a one-stop-shop for friends and family to connect and share media, providing a reliable and easy-to-use solution for those seeking to stay connected in a digital world.
 
 ## Target Users
+The success of any app depends largely on its ability to appeal to its target audience. In the case of this project, which aims to provide a simple and easy way for friends and family to connect and share media while not physically together, the target users are diverse and include people of all ages and backgrounds.
 
+From grandparents who may be less familiar with technology, to teenagers who use social media apps on a daily basis, the app needs to cater to the unique needs and preferences of each user group. To do this, the app needs to be intuitive and user-friendly for all ages, while also offering advanced features that appeal to younger users. Additionally, it needs to be accessible and inclusive, catering to users with different abilities and disabilities. By focusing on these key factors, the app has the potential to bridge generational gaps and bring families and friends closer together.
 
 
 ## Research Methods
 
+
+## Interview Observations and Insights
+
+## Reflection

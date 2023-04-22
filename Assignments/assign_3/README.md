@@ -3,6 +3,7 @@ DH110: User Experience and Design
 Sarah Redden
 
 
+
 ## Project Design Challenge
 The Covid-19 pandemic has highlighted the importance of staying connected with loved ones while maintaining social distancing. With people being forced to stay at home, many turned to technology as a means of staying connected. However, the sudden surge in demand has led to a number of hastily put-together solutions that are often unreliable and lack user-friendliness.
 

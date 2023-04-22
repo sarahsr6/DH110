@@ -26,3 +26,4 @@ In order to conduct some research on how people typically share media and chat w
 ## Interview Observations and Insights
 
 ## Reflection
+https://drive.google.com/file/d/1Lvk8oi6ZVA586zH5n0EuPZFHCK6PVUqF/view?usp=sharing

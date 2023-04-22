@@ -37,6 +37,10 @@ These sections help get insite to the participants skill level and what apps the
 * Contextual Inquiry Script: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Field%20Study%20Interview%20Script%20.pdf)
 * Field Notes: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Field%20Notess.pdf)
 
+#### User Activity Attempt
+
+! [image](zoom.png)
+
 ## Interview Observations and Insights
 Users want to use what they know 
 > I found that these users weren't technologically advanced, but knew how to do a good amount with computers from school and social media. However, they both explained that they would prefer to use apps they already know how to use because learning new apps is sometimes overwhelming and annoying.

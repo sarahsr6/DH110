@@ -22,9 +22,9 @@ From grandparents who may be less familiar with technology, to teenagers who use
 In order to conduct some research on how people typically share media and chat with friends, I decided to use 2 methods of research: participatory observation and an interview. 
 
 #### Interview Documentation and Recordings
-* Interview Audio: [here](https://drive.google.com/file/d/1Lvk8oi6ZVA586zH5n0EuPZFHCK6PVUqF/view?usp=sharing)
+* Interview Audio: [Here](https://drive.google.com/file/d/1Lvk8oi6ZVA586zH5n0EuPZFHCK6PVUqF/view?usp=sharing)
 * Interview Transcript: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Transcript%20.pdf)
-* 
+* Contextual Inquiry Script: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Field%20Study%20Interview%20Script%20.pdf)
 
 ## Interview Observations and Insights
 

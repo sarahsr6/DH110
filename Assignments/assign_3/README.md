@@ -41,8 +41,18 @@ Users want to use what they know
 
 Certain tasks are so hard to do, users rather not do it than even try
 > Users explained some things they did over quarentene and it seemed like they veered away from online social tasks. They explained they would want to share movies with their friends, but it was too hard for them to even want to figure out, so they would rather just not do it at all.
-* Users dont lke discord
-* Want simplicity and standardization
+Users dont lke discord
+> They both explained that discord was an app they would never want to touch. They even had some experience with it from some classes, but never want to try it again because it was just too confusing and not sensical to them. They would prefer using multiple different apps than attemp discord which has it all. This was surprising to me because I thought that would be a go to app for movie sharing, but they explained they would rather not share than try discord.
+Want simplicity and standardization
+> They said they are open to teying new apps, like zoom was new to them both at the beginning of covid and whatsapp. But they are more willing to stick those and learn those apps because they are more straightforeward and easy to learn. I think this is because they are more standardized in terms of buttons and functionality.
 
 ## Reflection
+The contextual inquiry I conducted seemed to be successful in providing insights into how people typically share media and chat with friends. Through the interview, I was able to identify the participants' preferred apps and how they typically use them in different scenarios. However, I was very surprised by the results because the apps they liked and disliked were far different than what I expected or have experienced myself.
 
+One key insight from the interview is that users prefer to use apps they are already familiar with rather than learning new ones. This suggests that app developers should prioritize making their apps more user-friendly and easy to learn in order to encourage adoption by a wider range of users.
+
+Another interesting observation from the interview is that some users may avoid certain social tasks, such as sharing movies with friends, if they perceive them as too difficult or confusing. This highlights the importance of designing social apps that are intuitive and easy to use, especially for less tech-savvy users.
+
+Finally, the participants' dislike of Discord, despite its reputation as a popular app for sharing media with friends. This suggests that there is no one-size-fits-all solution when it comes to social apps. Developers should strive to create a variety of apps with different functionalities and designs to cater to the diverse needs and preferences of users. While discord does have the approach to display everything for users to see, there are some drawbacks when it comes to new users learning the app.
+
+Overall, my research provided valuable insights into user behavior and preferences when it comes to social media and media sharing apps. My use of a contextual inquiry allowed for a deeper understanding of the participants' attitudes and experiences, which can inform future app development and design decisions.

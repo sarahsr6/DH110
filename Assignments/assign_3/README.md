@@ -42,7 +42,7 @@ Users want to use what they know
 Certain tasks are so hard to do, users rather not do it than even try
 > Users explained some things they did over quarentene and it seemed like they veered away from online social tasks. They explained they would want to share movies with their friends, but it was too hard for them to even want to figure out, so they would rather just not do it at all.
 
-Users dont lke discord
+Novice users dont lke discord
 > They both explained that discord was an app they would never want to touch. They even had some experience with it from some classes, but never want to try it again because it was just too confusing and not sensical to them. They would prefer using multiple different apps than attemp discord which has it all. This was surprising to me because I thought that would be a go to app for movie sharing, but they explained they would rather not share than try discord.
 
 Want simplicity and standardization

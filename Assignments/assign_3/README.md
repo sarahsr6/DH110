@@ -25,6 +25,7 @@ In order to conduct some research on how people typically share media and chat w
 * Interview Audio: [Here](https://drive.google.com/file/d/1Lvk8oi6ZVA586zH5n0EuPZFHCK6PVUqF/view?usp=sharing)
 * Interview Transcript: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Transcript%20.pdf)
 * Contextual Inquiry Script: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Field%20Study%20Interview%20Script%20.pdf)
+* Field Notes: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Field%20Notess.pdf)
 
 ## Interview Observations and Insights
 

@@ -39,7 +39,7 @@ These sections help get insite to the participants skill level and what apps the
 
 #### User Activity Attempt
 
-! [image](zoom.png)
+![dummy image](zoom.png)
 
 ## Interview Observations and Insights
 Users want to use what they know 

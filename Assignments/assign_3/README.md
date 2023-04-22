@@ -36,9 +36,11 @@ These sections help get insite to the participants skill level and what apps the
 * Field Notes: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Field%20Notess.pdf)
 
 ## Interview Observations and Insights
-* Users want to use what they know 
+Users want to use what they know 
 > I found that these users weren't technologically advanced, but knew how to do a good amount with computers from school and social media. However, they both explained that they would prefer to use apps they already know how to use because learning new apps is sometimes overwhelming and annoying.
-* Certain tasks are so hard to do, users rather not do it than even try
+
+Certain tasks are so hard to do, users rather not do it than even try
+> Users explained some things they did over quarentene and it seemed like they veered away from online social tasks. They explained they would want to share movies with their friends, but it was too hard for them to even want to figure out, so they would rather just not do it at all.
 * Users dont lke discord
 * Want simplicity and standardization
 

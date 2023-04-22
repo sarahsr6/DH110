@@ -38,8 +38,10 @@ These sections help get insite to the participants skill level and what apps the
 * Field Notes: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Field%20Notess.pdf)
 
 #### User Activity Attempt
-
+For our activity, I had Jazmine walk through the steps of how she would share a show on zoom with her friends. She said typically she would just recieve a link and join from one of her tech savy friends, but I wanted to test and see if she can figure it out and see if zoom was maybe an easy option. We logged into zoom and screen shared on my laptop. However when we tried to play iCarly on netflix, the audio was working, but the screen was black. We posted an image below.
 ![dummy image](zoom.png)
+
+We couldn't figure out how to fix the issue so we ended the activity because she tried everything she could think of. 
 
 ## Interview Observations and Insights
 Users want to use what they know 

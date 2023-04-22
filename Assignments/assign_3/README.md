@@ -23,6 +23,8 @@ In order to conduct some research on how people typically share media and chat w
 
 #### Interview Documentation and Recordings
 * Interview Audio: [here](https://drive.google.com/file/d/1Lvk8oi6ZVA586zH5n0EuPZFHCK6PVUqF/view?usp=sharing)
+* Interview Transcript: [Here](https://github.com/sarahsr6/DH110/blob/main/Assignments/assign_3/Transcript%20.pdf)
+* 
 
 ## Interview Observations and Insights
 

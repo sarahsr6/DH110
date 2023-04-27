@@ -14,3 +14,6 @@ The purpose of UX storytelling is to create a user-centered design approach that
 I want to make an app that is easy for people of all ages to complete. Lets take a look at some personas, and see if this app can help with some of their struggles.
 
 ## Persona Creation and Empathy Maps
+
+#### Persona #1: 
+![dummy image](uclaIMAGE.png)

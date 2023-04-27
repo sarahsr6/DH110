@@ -16,4 +16,5 @@ I want to make an app that is easy for people of all ages to complete. Lets take
 ## Persona Creation and Empathy Maps
 
 #### Persona #1: 
-![dummy image](uclaIMAGE.png)
+![Persona Daniella](Daniella.png)
+![Empathy map Daniella](D_emp.png)

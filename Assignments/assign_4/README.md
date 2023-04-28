@@ -21,4 +21,6 @@ I want to make an app that is easy for people of all ages to complete. Lets take
 ![Empathy map Daniella](D_emp.png)
 
 #### Persona #2: Joe Smith, Dad of 2 girls, Finance worker in New Jersey
-![Persona Joe
+![Persona Joe](Joe.png)
+##### Joe's's Empathy Map
+![Empathy map joe](J_emp.png)

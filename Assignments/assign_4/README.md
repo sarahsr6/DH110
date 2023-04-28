@@ -30,7 +30,16 @@ I want to make an app that is easy for people of all ages to complete. Lets take
 
 ## Scenareos and Journey Map
 
-#### Daniella's Scenareo
+#### Scinario #1: Daniella
+
+##### Why
+
+##### How
+
+##### Daniella's Journey Map
+
+
+#### Scinario #2: Joe
 
 ##### Why
 

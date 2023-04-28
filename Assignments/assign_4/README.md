@@ -36,7 +36,7 @@ I want to make an app that is easy for people of all ages to complete. Lets take
 Daniella is feeling overwhelmed with the workload of college and trying to maintain individual relationships with each of her friends. She misses the close-knit social circle she had back home and feels disconnected from her friends and family. She finds it hard to juggle all her responsibilities and maintain a healthy social life.
 
 ##### How
-By using the group calling and group chat app, Daniella can save time and energy while staying connected with her friends. She can have group calls with all her friends at once, making it easier to catch up with everyone at the same time. Additionally, she can use the group chat to share updates, memes, and jokes with all her friends, creating a sense of camaraderie and closeness even from a distance. She can also use the app's streaming feature to watch movies and TV shows with her friends, making it a fun way to multitask her relaxation time with catching up with her friends.
+By using the family friendly discord, Daniella can save time and energy while staying connected with her friends. She can have group calls with all her friends at once, making it easier to catch up with everyone at the same time. Additionally, she can use the group chat to share updates, memes, and jokes with all her friends, creating a sense of camaraderie and closeness even from a distance. She can also use the app's streaming feature to watch movies and TV shows with her friends, making it a fun way to multitask her relaxation time with catching up with her friends.
 
 ##### Daniella's Journey Map
 ![Daniella journey map](DaniellaJourney.png) 
@@ -47,7 +47,7 @@ By using the group calling and group chat app, Daniella can save time and energy
 Joe is feeling lonely and disconnected from his family since his youngest daughter moved away for college. He misses spending time with his daughters and wife and wishes he could have movie nights with them like they used to. However, he struggles with technology and finds it hard to keep in good contact with his family.
 
 ##### How
-By using the simple and user-friendly group calling and group chat app, Joe can easily stay connected with his family and have movie nights with them even from a distance. The app's streaming feature makes it easy for him to watch movies with his family, and its user-friendly interface makes it simple for him to use.
+By using the simple and user-friendly Discord family app, Joe can easily stay connected with his family and have movie nights with them even from a distance. The app's streaming feature makes it easy for him to watch movies with his family, and its user-friendly interface makes it simple for him to use. It is simple and straightfoeward, so he doesnt have to worry about being too old for the app or see too much going on. 
 
 ##### Joe's Journey Map
 ![Joe journey map](JoeJourney.png)

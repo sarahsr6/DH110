@@ -39,7 +39,7 @@ Daniella is feeling overwhelmed with the workload of college and trying to maint
 By using the group calling and group chat app, Daniella can save time and energy while staying connected with her friends. She can have group calls with all her friends at once, making it easier to catch up with everyone at the same time. Additionally, she can use the group chat to share updates, memes, and jokes with all her friends, creating a sense of camaraderie and closeness even from a distance. She can also use the app's streaming feature to watch movies and TV shows with her friends, making it a fun way to multitask her relaxation time with catching up with her friends.
 
 ##### Daniella's Journey Map
-
+![Daniella journey map](DaniellaJourney.png) 
 
 #### Scinario #2: Joe
 
@@ -49,4 +49,5 @@ Joe is feeling lonely and disconnected from his family since his youngest daught
 ##### How
 By using the simple and user-friendly group calling and group chat app, Joe can easily stay connected with his family and have movie nights with them even from a distance. The app's streaming feature makes it easy for him to watch movies with his family, and its user-friendly interface makes it simple for him to use.
 
-##### Daniella's Journey Map
+##### Joe's Journey Map
+![Joe journey map](JoeJourney.png)

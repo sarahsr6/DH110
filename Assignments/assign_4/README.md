@@ -30,7 +30,7 @@ I want to make an app that is easy for people of all ages to complete. Lets take
 
 ## 🗺 Scenareos and Journey Map 🗺
 
-### Scinario #1: Daniella
+### Scenario #1: Daniella
 
 ##### Why
 Daniella is feeling overwhelmed with the workload of college and trying to maintain individual relationships with each of her friends. She misses the close-knit social circle she had back home and feels disconnected from her friends and family. She finds it hard to juggle all her responsibilities and maintain a healthy social life.
@@ -41,7 +41,7 @@ By using the group calling and group chat app, Daniella can save time and energy
 ##### Daniella's Journey Map
 ![Daniella journey map](DaniellaJourney.png) 
 
-### Scinario #2: Joe
+### Scenario #2: Joe
 
 ##### Why
 Joe is feeling lonely and disconnected from his family since his youngest daughter moved away for college. He misses spending time with his daughters and wife and wishes he could have movie nights with them like they used to. However, he struggles with technology and finds it hard to keep in good contact with his family.

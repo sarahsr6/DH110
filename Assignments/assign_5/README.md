@@ -1,1 +1,22 @@
+# Assignment #6: Low Fidelity Prototype
 
+Sarah Redden
+DH110: User Experience and Design
+
+## Project Description
+
+For my project I developed an app called Tele-Watch Party. It is a social app designed to help people of all ages stay connected with their friends and family. With this app, users can create groups, chat, and join group calls, making it easy to catch up with loved ones from anywhere in the world. One of the standout features of Tele-Watch Party is its Tele-Watch button, which allows users to share movies or shows from popular streaming services such as Netflix, Hulu, Disney+, or HBO Max. This means that users can watch their favorite shows together in real-time, no matter where they are located. They can also do this while on a call, which isnt popular in any apps currently.
+
+Recently, I conducted some user research on some similar competitor apps currently availible. After various testing I found that there are some major problems that make it very difficult for users to share shows:
+
+* Some apps like discord are more complecated, which turns users awat from even trying.
+* Ohter apps like zoom don't provide steps to get arould the blocking features streaming apps have to prevent users from sharing their screen 
+* Apps made specifically for sharing movies don't allow for calls at the same time. They just include a chat message feature
+
+I wanted to take these problems into consideration when designing this new app geared specifically for media sharing. I wanted to mnake it simple, and as intuitive as possible. In order to do that, I still have some further testing to do alongside developement.
+
+Creating a low fidelity prototype is an important step in the app development process. It allows you to quickly test and validate your ideas before investing too much time or money in the development process. By creating a low fidelity prototype, you can get user feedback early on and make changes as needed, without wasting resources.
+
+A low fidelity prototype like the wireframe I created for Tele-Watch Party is an excellent way to get user input. It allows me to show your idea to potential users and gather feedback on the concept, features, and overall usability of the app. This feedback can then be used to improve the app and create a better user experience.
+
+For this project, I created a wireframe and wireflow, which I then tested with some users in order to get some feedback for futher developement. Creating a low fidelity prototype is an essential step in the app development process, as it allows me to test my ideas and gather feedback from potential users.

@@ -42,11 +42,13 @@ Wireflow:
 ## User Interactions
 Video Test of Wireframe Tasks: [Click Here](https://www.youtube.com/watch?v=HoBH7-qXdQk)
 
-User Tasks:
+User Tasks:  The user was instructed to do each task with the coordinated color. The results are posted below.
 
 <img src="userTasks.jpeg" width="400">
 
 User Flow Test: ![inage](testerUserFlow.jpeg)
+
+Overall, the user was able to complete each task easily. She just had some issues with identifying what sone icons were. For one I thint I need to label the contacts button with text because that icon isn't too intuative. Another issue the user came across was the call button. I might add a help bar to explain how the app works. Overall, this app was fairly simple and intuitive.
 
 ## Reflection
 

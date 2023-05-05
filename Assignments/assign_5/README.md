@@ -44,7 +44,7 @@ Video Test of Wireframe Tasks: [Click Here](https://www.youtube.com/watch?v=HoBH
 
 User Tasks:
 
-<img src="userTasks.jpeg" width="300">
+<img src="userTasks.jpeg" width="400">
 
 User Flow Test: ![inage](testerUserFlow.jpeg)
 

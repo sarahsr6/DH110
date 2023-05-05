@@ -42,3 +42,22 @@ Wireflow:
 ## User Interactions
 
 ## Reflection
+
+The wireflow process helped me to create a low fidelity prototype of my app or website. This prototype helped me nail down basic sketches or wireframes of the app's user interface, along with a flowchart that maps out how users will navigate through the app's various features and functions.
+
+One of the main benefits of the wireflow process is that it allowed me to quickly test and validate my ideas. By creating a low fidelity prototype early on, I was able to identify potential problems and make changes before investing too much time or resources in the development process.
+
+Before I was able to just identify problems with current apps, but this helped me solidify a direction with a new app. Drawing it out allowed me to implement features I saw some current apps lacked.
+
+Then I was able to take my ideas and do a rough test with a user. From this test I found some potential problems with my design, which I may consider in my next round of developement:
+* Some buttons weren't as clear as I thought they would be.
+> The contacts button was a little hard to find, so I think I might add some text saying it is the contacts as well. 
+* Not every pull down menu was completely though throuch, so it could be confusing at times for the user.
+> I need to go through the settings page and develope what each pull down tab might include. I think there needs to be more options to edit a profile and different features in the app
+* I need to make the setup process a little easier or more clear.
+> It seemed a little confusing how to get to the home screen from the log in page. I need to develope that option a little more, or make the button to log in/ sign in bigger
+* The settings tab was a little confusing to the user as well.
+> The user was just confused why we didnt test the settings page, but that is because I just need a little more developement.
+
+Overall, I found that the wireflow process is a valuable tool for app development. It enables designers and developers to create a clear vision of the app's user interface and user experience, and to gather feedback from users before moving on to more advanced stages of development.
+

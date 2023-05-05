@@ -42,7 +42,8 @@ Wireflow:
 ## User Interactions
 Video Test of Wireframe Tasks: [Click Here](https://www.youtube.com/watch?v=HoBH7-qXdQk)
 
-User Tasks: <img src="userTasks.jpeg" width="300">
+User Tasks:
+<img src="userTasks.jpeg" width="300">
 
 User Flow Test: ![inage](testerUserFlow.jpeg)
 

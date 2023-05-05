@@ -20,3 +20,21 @@ Creating a low fidelity prototype is an important step in the app development pr
 A low fidelity prototype like the wireframe I created for Tele-Watch Party is an excellent way to get user input. It allows me to show your idea to potential users and gather feedback on the concept, features, and overall usability of the app. This feedback can then be used to improve the app and create a better user experience.
 
 For this project, I created a wireframe and wireflow, which I then tested with some users in order to get some feedback for futher developement. Creating a low fidelity prototype is an essential step in the app development process, as it allows me to test my ideas and gather feedback from potential users.
+
+
+## Tasks
+
+1. Add a new user account and sign in
+2. Add some new contacts, and navigate back home
+3. Create a new group and add some friends to it
+4. Send a message in a group's chat 
+5. Join a group call
+6. Start a Tele-Watch Party, and watch something on disney plus 
+
+## Wireframe and Wireflow
+
+
+
+
+
+

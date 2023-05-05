@@ -13,7 +13,7 @@ Recently, I conducted some user research on some similar competitor apps current
 * Ohter apps like zoom don't provide steps to get arould the blocking features streaming apps have to prevent users from sharing their screen 
 * Apps made specifically for sharing movies don't allow for calls at the same time. They just include a chat message feature
 
-I wanted to take these problems into consideration when designing this new app geared specifically for media sharing. I wanted to mnake it simple, and as intuitive as possible. In order to do that, I still have some further testing to do alongside developement.
+I wanted to take these problems into consideration when designing this new app geared specifically for media sharing. I wanted to make it simple, and as intuitive as possible. In order to do that, I still have some further testing to do alongside developement.
 
 Creating a low fidelity prototype is an important step in the app development process. It allows you to quickly test and validate your ideas before investing too much time or money in the development process. By creating a low fidelity prototype, you can get user feedback early on and make changes as needed, without wasting resources.
 

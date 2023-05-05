@@ -36,7 +36,7 @@ For this project, I created a wireframe and wireflow, which I then tested with s
 Wireframe: [Click Here](https://sarah398878.invisionapp.com/freehand/Proj-5-pObe8fZlr)
 
 Wireflow:
-![dummy image](wireframe.jpeg)
+![dummy image](wireflow.jpeg)
 
 
 ## User Interactions

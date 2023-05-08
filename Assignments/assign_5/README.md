@@ -1,6 +1,7 @@
 # Assignment #6: Low Fidelity Prototype
 
 Sarah Redden
+
 DH110: User Experience and Design
 
 ## Project Description

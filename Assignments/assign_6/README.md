@@ -54,7 +54,7 @@ Here is the link to the Figma page: [Click Here](https://www.figma.com/file/XpgB
 ![tool bar2](toolbar2.png)
 
 ### Light Mode
-![light](lightmode.png)
+![light](lightmodee.png)
 
 ### Dark Mode
 ![dark](darkmode.png)

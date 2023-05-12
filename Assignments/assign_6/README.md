@@ -30,10 +30,10 @@ Here is the link to the Figma page:
 
 
 #### Color Palette
-![shape image](.png)
+![shape image](color.png)
 
 #### Light and Dark Modes
-![shape image](.png)
+![shape image](mode.png)
 
 
 

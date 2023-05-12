@@ -67,7 +67,7 @@ Here is the link to the Figma page: [Click Here](https://www.figma.com/file/XpgB
 
 ## Design System Summary
 
-### Typeface family and size
+### Typeface Family and Size
 * Header: "Playfair Display", size 34 pt, extra bold font, letter spacing 5%, black stroke outline, drop shadow effect
 > I wanted the header to pop and be larger than most other font so users know what app they are in, which has a distinct design and font. 
 * Tool Bar: "Playfair Display", size 28 pt (current screen), size 10 pt (button options), regular font, letter spacing 0%
@@ -78,12 +78,12 @@ Here is the link to the Figma page: [Click Here](https://www.figma.com/file/XpgB
 
 
 
-### Color scheme
+### Color Scheme
 * background color light mode (creamy white): E0E6E6
 * background color dark mode (dark grey): 282728
 * text color (black): 1A1A1A
 
-Accent colors
+Accent Colors
 * Dark Purple (for buttons and title bar): 403B44
 * Lavender (for accent background and bitton): ADA7B2
 
@@ -92,7 +92,7 @@ Accent colors
 
 
 
-### Layout grid and spacing
+### Layout Grid and Spacing
 * layout grid: 4 columns, 10 rows, 30 pt margins
 
 > How I made the decision: I knew I only had a few elements in the row, so I only went with 4 columns, which would help me easily define a center point alongside clear blocks to make my group buttons. Each block was easy to make because it was just the size of 2 columns, which already had spaced margins. In terms of the rows, I just decided to do 10 after testing out different numbers. Only doing 10, helped me make a nice square like shape for my group buttons, and allowed me to fit 5 groups on the page as well. It also allowed for a nice placing of the bottom "add group button". I think the grid I picked isnt too chaotic as well, which will help me implement a nice, simple design for future wireframes.

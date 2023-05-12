@@ -24,6 +24,8 @@ Here is the link to the Figma page:
 
 ### Shape Variations
 
+![shape image](shape.png)
+
 ### Color Schemes
 
 ### Layout Test

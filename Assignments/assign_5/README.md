@@ -1,4 +1,4 @@
-# Assignment #6: Low Fidelity Prototype
+# Assignment #5: Low Fidelity Prototype
 
 Sarah Redden
 

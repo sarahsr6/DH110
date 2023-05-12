@@ -15,7 +15,8 @@ Interface design is important because it is a main factor contributing to user-f
 Here is the home scteen page I have ended up with:
 ![shape image](home.png)
 
-Here is the link to the Figma page: 
+Here is the link to the Figma page: [Click Here](https://www.figma.com/file/XpgB9ePVOq22yYLQFRPqBN/Assignment-6-wireframe?type=design&node-id=0%3A1&t=cx0EaW5fx9dJsCzf-1)
+
 
 ## Screen Design
 

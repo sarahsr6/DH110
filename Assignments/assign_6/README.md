@@ -48,6 +48,16 @@ Here is the link to the Figma page: [Click Here](https://www.figma.com/file/XpgB
 
 ## Accessibility Check (Color-Contrast)
 
+### Title Bars
+![main img](titlebar.png)
+![tool bar](toolbar.png)
+![tool bar2](toolbar2.png)
+
+### Light Mode
+![light](lightmode.png)
+
+### Dark Mode
+![dark](darkmode.png)
 
 
 

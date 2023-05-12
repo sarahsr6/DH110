@@ -31,17 +31,17 @@ Here is the link to the Figma page:
 
 
 #### Color Palette
-![shape image](color.png)
+![color image](color.png)
 
 #### Light and Dark Modes
-![shape image](mode.png)
+![mode image](mode.png)
 
 
 
 
 ### Layout Test
 
-
+![layout image](layout.png)
 
 
 

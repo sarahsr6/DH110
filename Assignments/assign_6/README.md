@@ -13,6 +13,7 @@ Last week I designed an overall layout of how the app works and gave a rough wir
 Interface design is important because it is a main factor contributing to user-friendlyness. The goal is to turn our low fidelity designs into a digitized design with a more developed style. This is achieved through color palletes, shape variations, and typographic variations. The dimentions of the frame for the app was done so using an iphone 14 screen size in an online design program called Figma. I will continue to work with Figma to create more detailed wireframes, but for now I will get into some design choices I've had to make so far. Figma will allow me to easily keep all the design choices availible for me to make more frames in the future.
 
 Here is the home scteen page I have ended up with:
+![shape image](home.png)
 
 Here is the link to the Figma page: 
 

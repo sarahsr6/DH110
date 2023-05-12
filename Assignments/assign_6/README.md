@@ -20,7 +20,7 @@ Here is the link to the Figma page:
 
 ### Typographic Variations
 
-![typo image](Typogrophic.png)
+![typo image](Typographic.png)
 
 ### Shape Variations
 

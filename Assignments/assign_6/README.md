@@ -20,6 +20,8 @@ Here is the link to the Figma page:
 
 ### Typographic Variations
 
+![typo image](Typogrophic.png)
+
 ### Shape Variations
 
 ### Color Schemes

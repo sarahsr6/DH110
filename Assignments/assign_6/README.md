@@ -28,6 +28,16 @@ Here is the link to the Figma page:
 
 ### Color Schemes
 
+
+#### Color Palette
+![shape image](.png)
+
+#### Light and Dark Modes
+![shape image](.png)
+
+
+
+
 ### Layout Test
 
 
@@ -46,3 +56,4 @@ White: E0E6E6
 Black: 1A1A1A
 Dark Purple: 403B44
 Light Purple: ADA7B2
+Dark Grey: 282728

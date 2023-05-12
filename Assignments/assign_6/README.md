@@ -95,7 +95,7 @@ Accent colors
 ### Layout grid and spacing
 * layout grid: 4 columns, 10 rows, 30 pt margins
 
-How I made the decision: I knew I only had a few elements in the row, so I only went with 4 columns, which would help me easily define a center point alongside clear blocks to make my group buttons. Each block was easy to make because it was just the size of 2 columns, which already had spaced margins. In terms of the rows, I just decided to do 10 after testing out different numbers. Only doing 10, helped me make a nice square like shape for my group buttons, and allowed me to fit 5 groups on the page as well. It also allowed for a nice placing of the bottom "add group button". I think the grid I picked isnt too chaotic as well, which will help me implement a nice, simple design for future wireframes.
+> How I made the decision: I knew I only had a few elements in the row, so I only went with 4 columns, which would help me easily define a center point alongside clear blocks to make my group buttons. Each block was easy to make because it was just the size of 2 columns, which already had spaced margins. In terms of the rows, I just decided to do 10 after testing out different numbers. Only doing 10, helped me make a nice square like shape for my group buttons, and allowed me to fit 5 groups on the page as well. It also allowed for a nice placing of the bottom "add group button". I think the grid I picked isnt too chaotic as well, which will help me implement a nice, simple design for future wireframes.
 
 
 

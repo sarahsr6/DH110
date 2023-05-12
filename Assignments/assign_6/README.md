@@ -1,3 +1,12 @@
+# Assignment #6: Interface Design
+
+DH 110: User Experience and Design
+
+Sarah Redden
+
+
+## Introduction
+
 
 Color Pallete:
 

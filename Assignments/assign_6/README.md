@@ -92,19 +92,11 @@ Accent colors
 
 
 
+### Layout grid and spacing
+* layout grid: 4 columns, 10 rows, 30 pt margins
 
-How I made the decision: For the color scheme, I wanted to use Hawaii's Division of State Parks website as inspiration, as well as the images of Hawaii displayed on their front page. The colors I chose (sand and blue) were very nature and beach themed, which is inspired by what Hawaii is best known for. The brown and green was also inspired by the branding used on Hawaii's Division of State Parks website, so overall, I am happy with the final color scheme. My interviewee also noticed how the colors reminded them of the beach and palm trees, which was my intention with these colors.
-
-Layout grid and spacing
-for the layout grid, I used a 10 pixel grid, where the distance between each grid space represented 10 pixels.
-How I made the decision: I chose to use a grid because I was familiar with grids from my past graphic design experiences and found them easier to use and organize spacing based on my personal experiences. I also used 3 grid spaces (aka 30 pixels) a lot for the design elements and spacing. For example, the drop down menu's height was 3 grid spaces, the gutter was 3 grid spaces, and the distance between each state park component was 3 grid spaces as well. This was done to provide more consistency within the design when it came to spacing.
+How I made the decision: I knew I only had a few elements in the row, so I only went with 4 columns, which would help me easily define a center point alongside clear blocks to make my group buttons. Each block was easy to make because it was just the size of 2 columns, which already had spaced margins. In terms of the rows, I just decided to do 10 after testing out different numbers. Only doing 10, helped me make a nice square like shape for my group buttons, and allowed me to fit 5 groups on the page as well. It also allowed for a nice placing of the bottom "add group button". I think the grid I picked isnt too chaotic as well, which will help me implement a nice, simple design for future wireframes.
 
 
 
-Color Pallete:
 
-White: E0E6E6
-Black: 1A1A1A
-Dark Purple: 403B44
-Light Purple: ADA7B2
-Dark Grey: 282728

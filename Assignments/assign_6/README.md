@@ -81,6 +81,9 @@ Overall, I was happy with the results of this test because most of the elements 
 
 ## Design System Summary
 
+In order to design the wireframe, I used Figma which is an online whiteboard used to design almost anything. I took my sketches and mad a real size layout on an iphone 14 screen. Here is the link to the Figma page: [Click Here](https://www.figma.com/file/XpgB9ePVOq22yYLQFRPqBN/Assignment-6-wireframe?type=design&node-id=0%3A1&t=cx0EaW5fx9dJsCzf-1)
+
+
 ### Typeface Family and Size
 * Header: "Playfair Display", size 34 pt, extra bold font, letter spacing 5%, black stroke outline, drop shadow effect
 > I wanted the header to pop and be larger than most other font so users know what app they are in, which has a distinct design and font. 

@@ -63,7 +63,21 @@ Here is the link to the Figma page: [Click Here](https://www.figma.com/file/XpgB
 
 ## Impression Test
 
-[Click Here](interview.m4a)
+I tested my design by conductiong a 5 second impression test with a volunteer. The point of this test is to help me guage what users first impressions of the app are. 
+
+The audio of the interview can be found here: [Click Here](interview.m4a)
+
+By just having a quick look at the page, the user was easily able to rmember the collowing points:
+* He instantly remembered the app's name 
+* This was the home page and the groups were displayed as large square buttons
+* There was a plus button which he assumed was to add more groups
+* He was able to remember that there was also a settings and contact button
+
+There were some elements he had trouble remembering as well:
+* the color wans't easy for him to recall
+* purpose of app wasn't very obvious by home screen
+
+Overall, I was happy with the results of this test because most of the elements I designed were obvious and intuative to the user, making it easier to remember. This user was one which was used to other streaming apps, so in terms of comarison and usability, the symbols alligned with features of other apps. I was also glad to see the name of the app was memorable by putting it at the top. I did however notice the color wasn't too memorable, but thats ok since I also don't want it to be overbearing. I think in the future I can also make the purpose of the app a little more obious by maybe implementing a description on the homescreen. 
 
 ## Design System Summary
 

@@ -1,5 +1,5 @@
 # High Fidelity Prototype: Tele-Watch Party
-DH110: User Experience and Design
+Assignment #7 DH110: User Experience and Design
 
 Sarah Redden
 
@@ -19,10 +19,18 @@ Link to Interactive Prototype: [Click Here](https://www.figma.com/proto/JoG48N0C
 2. Share Disney+ with your friends.
 3. Add a new contact and log out
 
+Try to complete these tasks on your own in the interactive prototype. For more help, refer to the wireflow in the following section.
+
 
 
 ## Wireflow with Interface Design
 Link to Figma design page: [Click Here](https://www.figma.com/file/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=0%3A1&t=gJxyR8dnmhlAq1bW-1)
+
+### Wireflow for Tasks
+1. Create a new group.
+2. Share Disney+ with your friends.
+3. Add a new contact and log out
+
 
 
 ## Cognitive Walkthrough

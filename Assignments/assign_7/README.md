@@ -21,8 +21,8 @@ Link to Interactive Prototype: [Click Here](https://www.figma.com/proto/JoG48N0C
 
 
 
-## Wireflow eith Interface Design
-
+## Wireflow with Interface Design
+Link to Figma design page: [Click Here](https://www.figma.com/file/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=0%3A1&t=gJxyR8dnmhlAq1bW-1)
 
 
 ## Cognitive Walkthrough

@@ -25,13 +25,27 @@ Try to complete these tasks on your own in the interactive prototype. For more h
 
 ## Wireflow with Interface Design
 Link to Figma design page: [Click Here](https://www.figma.com/file/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=0%3A1&t=gJxyR8dnmhlAq1bW-1)
+
+I was able to make each app page in figma where I was able to design every aspect of the prototype. The app is made up of the following pages below or you can take a more in depth look by vieving my figma page with the link above.
 ![basic layout](basicDesign.png)
+
+After I was able to design each screen and button, I went through it and added prototype interactions between the pages and buttons. This is what allows you to actually test out the buttons and flows for the tasks I provited. The finished interactions looks like the following:
+![interaction flow](interactionFlow.png)
+
+This seems a little chaotic when looking at it as a whole, so I will go over the wireflow for each task indivigually.
 
 ### Wireflow for Tasks
 1. Create a new group.
-2. Share Disney+ with your friends.
-3. Add a new contact and log out
+> To create a new group you start at the first page which is the login screen. You can either add a new user, or just directly sign in by clicking the cooresponding buttons. From there you click the plus at the bottom of the screen to add a new group. This will take you to the new group page where you can customize the tite and discription (but for today this costomization is not availible because this is just an example app). You can then press the plus button at the bottom to then actually add the new "customized" group. Then you should see that new group pop up at the bottom of the home page. You can now click on the group to see what is inside.
+![task 1 ](task1.png)
 
+2. Share Disney+ with your friends.
+> To share media with your friends you first have to click on a group. The only group that is currently availible is the one you just made at the bottom, so click that whenever you are at home again. Once you are in the group, you can then click the call button to join the group call. From there, you click the tele-watch party button which will then display netflix, hulu, hbo max, and disney+. To share disney+, click the icon and the icon should expand. You can watch it on small screen or click the disney+ screen to go back and forth from large screen, then back to small again. 
+![task 2](task2.png)
+
+3. Add a new contact and log out
+> Navigate back to the home screen and click contacts. Here you can idealy search for contacts or add back requests. Navigate back home, then click settings. Then click log out. Then you are done!
+![task 3](task3.png)
 
 
 ## Cognitive Walkthrough

@@ -14,6 +14,19 @@ In this phase of testing, I have made three tasks on my app interactive. I will 
 
 ## Interactive Prototype
 Link to Interactive Prototype: [Click Here](https://www.figma.com/proto/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=4-101&scaling=scale-down&page-id=0%3A1)
+### Interactive Features
+* sign up button and page, click done then sign in
+* add new group button 
+* new group page has the add new group button when done, home button, and cancel button
+* Home page should add new group when clicked ( adds group to the bottom).. then you can click this group to display your group page with messages and call button
+* call button takes you to group call where you can click tele-watch party button to start streaming, can also mute mike or put on speaker
+* supports disney+ only, when clicked you can pake it a bigger screen
+* can go home, contacts or setting when in call
+* end the call
+* all home buttons work
+* contact button takes you to contacts where you can scroll
+* settings button takes you to settings where you can use log out button or go back home
+
 ### Tasks
 1. Create a new group.
 2. Share Disney+ with your friends.

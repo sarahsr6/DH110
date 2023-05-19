@@ -49,5 +49,11 @@ This seems a little chaotic when looking at it as a whole, so I will go over the
 
 
 ## Cognitive Walkthrough
+Video of self cognitive walkthrough: [Click Here](https://youtu.be/ljm-O6PXcvM)
+
+Overall, the walkthrough process helped me a lot along the way, because it was able to sho me thinks I may have misssed in the creation process. The video above shows the final walkthrough, but before I did that there were a few bugs I had to go back and fix. Some buttons I forgot to add an interaction were shown, so I would go back and forth fixing anything like that I missed. There were also some buttons that took me to black screens, which would then get me stuck. I later found out that those black screens were little icons I forgot to delete next to some app pages. After fixing all those little details, I was happy with the results, and I also made sure that there is always a back or home button so users can't get stuck.
+
+I think going foreward I can also maybe include a "delete group" button, so not only can you add a group, you can delete them as well. I also would like to fix the speaker and mike mute button so it is a little more clear what stage you are in. That was one thing that was a little unclear, so I want to standardize that a bit more to make it more obvious. I also want to conduct more user testing with this interactive high fidelity app in order to get other people's feedback as well. I think suggections would help with the next iterations of design.
+
 
 

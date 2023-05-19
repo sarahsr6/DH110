@@ -5,7 +5,22 @@ Sarah Redden
 
 ## Intro of Project Description
 
+I wanted to design an app for users of all age to beable to stay in touch and share movies and shows from far away. Most apps that allow you to do this are very complecated, so I wanted to design something easy to use. I designed an app called tele-watch party. It allows users to create groups where they can message, call, and share media with eachother easily. 
+
+In order to design this, I started with an idea, created a low fidelity prototype, conducted multiple rounds of testing, then finally created the high fidelity prototype in figma. After designing the colors and layouts of each screen, figma allowed me to also make the prototype interactive with some buttons that will allow me to test outthe flow later. 
+
+In this phase of testing, I have made three tasks on my app interactive. I will be testing the flow of my app and usability with these tasks. First I will be testing if users can figure out how to create a new group. Then I will see if thay can easily figure out how to share a streaming site with friends. Finally I will see if they will be able to end the call and log out. Since my app is interactive now, it will be like we are testing the real app while still being able to make changes in design if things still need to be changed. 
+
+
+## Interactive Prototype
+Link to Interactive Prototype: [Interactive Prototype](https://www.figma.com/proto/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=4-101&scaling=scale-down&page-id=0%3A1)
 
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJoG48N0CxSEeutdR6lSq0O%2FHigh-Fidelity-Prototype%3Ftype%3Ddesign%26node-id%3D4-101%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+## Wireflow eith Interface Design
+
+
+
+## Cognitive Walkthrough
+
+

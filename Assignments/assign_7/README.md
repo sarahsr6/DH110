@@ -25,6 +25,7 @@ Try to complete these tasks on your own in the interactive prototype. For more h
 
 ## Wireflow with Interface Design
 Link to Figma design page: [Click Here](https://www.figma.com/file/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=0%3A1&t=gJxyR8dnmhlAq1bW-1)
+![basic layout](basicDesign.png)
 
 ### Wireflow for Tasks
 1. Create a new group.

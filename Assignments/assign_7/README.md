@@ -13,7 +13,11 @@ In this phase of testing, I have made three tasks on my app interactive. I will 
 
 
 ## Interactive Prototype
-Link to Interactive Prototype: [Interactive Prototype](https://www.figma.com/proto/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=4-101&scaling=scale-down&page-id=0%3A1)
+Link to Interactive Prototype: [Click Here](https://www.figma.com/proto/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=4-101&scaling=scale-down&page-id=0%3A1)
+### Tasks
+1. Create a new group.
+2. Share Disney+ with your friends.
+3. Add a new contact and log out
 
 
 

@@ -69,4 +69,15 @@ Overall, the walkthrough process helped me a lot along the way, because it was a
 I think going foreward I can also maybe include a "delete group" button, so not only can you add a group, you can delete them as well. I also would like to fix the speaker and mike mute button so it is a little more clear what stage you are in. That was one thing that was a little unclear, so I want to standardize that a bit more to make it more obvious. I also want to conduct more user testing with this interactive high fidelity app in order to get other people's feedback as well. I think suggections would help with the next iterations of design.
 
 
+### Usability Testing
+Video of participant usability testing: [Click Here](https://youtu.be/l8FxQDEoziE)
+
+I was also able to have a participant part take in my testing for the app's semi final variations. I asked the participant to do the three tasks I talked about above, while starting from the sign in screen. The goal here was to have tasks that were harder to figure out because I wasn't helping with steps for each page. 
+
+I was surprised to see how fast the participant was able to go through each screen to complete each task, especially since each task had multiple steps. There were some parts where she hesitated though, which I would like to improve upon with future iterations. For one, I could see a hesitation when I told her to share disney+. I think I need to add some explenation on the homescreen that you need to start a call with friends before sharing movies. Maybe under the app logo I can add "call your friends and share movies" as a little slogan or something. 
+
+Other than that, I think I can also expand on my high fidelity prototype if I had more time, and make more buttons interactive. The next thing I would do is make the contacts screen more interactive so you can actually add a contact. But overall, this is all just a means for testing and I think what I did so far was devinatly intuative to the user. They also were able to complete each task in a timly manner and had no issues overall. This tells me that my app is on track in terms of usability and simplicity, and I hope to continue with this design going foreward.
+
+
+
 

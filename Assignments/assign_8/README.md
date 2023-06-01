@@ -30,16 +30,25 @@ I wanted to take these problems into consideration when designing this new app g
 
 
 ## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+Cmpeting apps such as Kast and Discord, allow people to stream content from various sources, including YouTube and Amazon Prime Video, and interact with their friends in real-time through a chat function. These apps have provided a new way for people to bond over shared interests and engage in virtual movie nights with loved ones, even when separated by distance. These apps are great ideas, but have some limitations in terms of conection.
+
+The rise of online streaming apps and platforms during the COVID-19 pandemic has not only revolutionized the way people consume entertainment, but also provided a means of staying connected with family and friends. These apps have become a popular way for people to share experiences, enjoy movie nights together, and feel closer despite being physically apart.
+
+I conducted some research on these existing apps using Jakob Nielson's 10 Usability Heuristics which can be found in the link below:
 [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_1)
+
+I also cinducted some live usability testing to see what users are looking for in these apps and what is currently wrong with them:
+[Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_2)
 
 
 ## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+In order to conduct some research on how people typically share media and chat with friends, I decided to use conduct a contextual inquiry with my participants. I decided to conduct an interview with 2 participants and see what apps they prefer to use given certain scenarios. The link to this research can be found here: 
+[Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_3)
+
 
 
 ## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+User Experience (UX) storytelling is a technique used in designing and creating digital products and services that aim to engage users by appealing to their emotions, needs, and desires. It is the art of crafting a narrative that connects users with a product or service, and it is a crucial part of UX design. The purpose of UX storytelling is to create a user-centered design approach that prioritizes empathy and understanding of the user's needs, preferences, and behaviors. This approach allows designers to create more engaging and meaningful experiences that connect with users on a deeper level, which ultimately leads to higher user satisfaction, loyalty, and retention. In this way, UX storytelling is an essential tool for designers seeking to create digital products and services that are both functional and emotionally impactful.
 
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]

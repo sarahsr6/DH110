@@ -30,6 +30,7 @@ I wanted to take these problems into consideration when designing this new app g
 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+[Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_1)
 
 
 ## User research [contextual inquiry, assignment04]:

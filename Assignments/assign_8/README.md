@@ -1,8 +1,6 @@
 # Tele-Watch Party App
 by Sarah Redden
 
-hi
-
 ## Introduction: 
 
 The Covid-19 pandemic has highlighted the importance of staying connected with loved ones while maintaining social distancing. With people being forced to stay at home, many turned to technology as a means of staying connected. However, the sudden surge in demand has led to a number of hastily put-together solutions that are often unreliable and lack user-friendliness.
@@ -49,6 +47,9 @@ In order to conduct some research on how people typically share media and chat w
 
 ## UX storytelling [persona+scenario, assignment05]
 User Experience (UX) storytelling is a technique used in designing and creating digital products and services that aim to engage users by appealing to their emotions, needs, and desires. It is the art of crafting a narrative that connects users with a product or service, and it is a crucial part of UX design. The purpose of UX storytelling is to create a user-centered design approach that prioritizes empathy and understanding of the user's needs, preferences, and behaviors. This approach allows designers to create more engaging and meaningful experiences that connect with users on a deeper level, which ultimately leads to higher user satisfaction, loyalty, and retention. In this way, UX storytelling is an essential tool for designers seeking to create digital products and services that are both functional and emotionally impactful.
+
+I created some personas and empathy maps of the demographics that would be usong my app. For example:
+![persona](Daniella.png)
 
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]

@@ -50,9 +50,19 @@ User Experience (UX) storytelling is a technique used in designing and creating 
 
 I created some personas and empathy maps of the demographics that would be usong my app. For example:
 ![persona](Daniella.png)
+![story map](D_emp.png)
+
+These personas help show what users may be in need for my tele watch app. The full story can be seen here. [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_4)
 
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
+Creating a low fidelity prototype is an important step in the app development process. It allows you to quickly test and validate your ideas before investing too much time or money in the development process. By creating a low fidelity prototype, you can get user feedback early on and make changes as needed, without wasting resources.
+
+A low fidelity prototype like the wireframe I created for Tele-Watch Party is an excellent way to get user input. It allows me to show the idea to potential users and gather feedback on the concept, features, and overall usability of the app. This feedback can then be used to improve the app and create a better user experience.
+
+I drew up a wireframe and wireflow, which I then tested with some users in order to get some feedback for futher developement. Creating a low fidelity prototype is an essential step in the app development process, as it allows me to test my ideas and gather feedback from potential users.
+
+
 
 
 ## Low-fidelity prototype (wireflow, assignment06)

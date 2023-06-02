@@ -55,15 +55,24 @@ I created some personas and empathy maps of the demographics that would be usong
 These personas help show what users may be in need for my tele watch app. The full story can be seen here. [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_4)
 
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+## Wireframe Sketch
 Creating a low fidelity prototype is an important step in the app development process. It allows you to quickly test and validate your ideas before investing too much time or money in the development process. By creating a low fidelity prototype, you can get user feedback early on and make changes as needed, without wasting resources.
 
 A low fidelity prototype like the wireframe I created for Tele-Watch Party is an excellent way to get user input. It allows me to show the idea to potential users and gather feedback on the concept, features, and overall usability of the app. This feedback can then be used to improve the app and create a better user experience.
 
 I drew up a wireframe and wireflow, which I then tested with some users in order to get some feedback for futher developement. Creating a low fidelity prototype is an essential step in the app development process, as it allows me to test my ideas and gather feedback from potential users.
 
+![wite sketch](wireflow.jpeg)
+
+For more detail on how this was made click here: [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_5)
 
 
+## graphic design element variation 
+Interface and graphic design is important because it is a main factor contributing to user-friendlyness. The goal is to turn our low fidelity designs into a digitized design with a more developed style. This is achieved through color palletes, shape variations, and typographic variations. The dimentions of the frame for the app was done so using an iphone 14 screen size in an online design program called Figma. Figma is what i used to create more detailed wireframes, but for now I will get into some design choices I've had to make before continuing. Figma allowed me to easily keep all the design choices availible for me to make more frames in the future.
+
+I created a light and dark mode after extensive research with collor pallete and spacing. The final product is below:
+
+![light and dark mode](
 
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)

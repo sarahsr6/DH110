@@ -55,7 +55,7 @@ I created some personas and empathy maps of the demographics that would be usong
 These personas help show what users may be in need for my tele watch app. The full story can be seen here. [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_4)
 
 
-## Wireframe Sketch
+## Wireframe Sketch / Low Fidelity Prototype
 Creating a low fidelity prototype is an important step in the app development process. It allows you to quickly test and validate your ideas before investing too much time or money in the development process. By creating a low fidelity prototype, you can get user feedback early on and make changes as needed, without wasting resources.
 
 A low fidelity prototype like the wireframe I created for Tele-Watch Party is an excellent way to get user input. It allows me to show the idea to potential users and gather feedback on the concept, features, and overall usability of the app. This feedback can then be used to improve the app and create a better user experience.
@@ -72,14 +72,18 @@ Interface and graphic design is important because it is a main factor contributi
 
 I created a light and dark mode after extensive research with collor pallete and spacing. The final product is below:
 
-![light and dark mode](
+![light and dark mode](mode.png)
 
-## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+For more details on how i came to choose these design choices check here: [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_6)
+
+
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+In order to get to this stage, I started with an idea, created a low fidelity prototype, conducted multiple rounds of testing, then finally created the high fidelity prototype in figma. After designing the colors and layouts of each screen, figma allowed me to also make the prototype interactive with some buttons that will allow me to test outthe flow later.
+
+In this phase of testing, I have made three tasks on my app interactive. I tested the flow of my app and usability with these tasks. First I tested if users can figure out how to create a new group. Then I tested to see if thay can easily figure out how to share a streaming site with friends. Finally checked if they were able to end the call and log out. Since my app is interactive now, it will be like we are testing the real app while still being able to make changes in design if things still need to be changed.
+
 
 
 ## Optional evaluation and revision history 

@@ -74,18 +74,20 @@ These personas help show what users may be in need for my tele watch app. The fu
 
 
 ## Wireframe Sketch / Low Fidelity Prototype
-Creating a low fidelity prototype is an important step in the app development process. It allows you to quickly test and validate your ideas before investing too much time or money in the development process. By creating a low fidelity prototype, you can get user feedback early on and make changes as needed, without wasting resources.
+I first came up with a low fidelity prototype because it is an important step in the app development process. It allowed me to quickly test and validate my ideas before investing too much time or money in the development process. By creating a low fidelity prototype, I was able to get user feedback early on and make changes as needed, without wasting resources.
 
-A low fidelity prototype like the wireframe I created for Tele-Watch Party is an excellent way to get user input. It allows me to show the idea to potential users and gather feedback on the concept, features, and overall usability of the app. This feedback can then be used to improve the app and create a better user experience.
+The wireflow process was utilized to create a low fidelity prototype of an app or website, which included basic sketches or wireframes of the user interface and a flowchart for navigation. This early-stage prototype allowed for quick testing and validation of ideas, helping to identify potential problems and make necessary changes before investing significant time and resources. Through user testing, several issues were identified, such as unclear buttons, difficulties in finding certain features, and confusion with pull-down menus and the settings tab. These insights will be considered in the next round of development to improve the design. Overall, the wireflow process proved to be a valuable tool for app development, providing a clear vision of the user interface and gathering user feedback before advancing to more advanced stages.
 
-I drew up a wireframe and wireflow, which I then tested with some users in order to get some feedback for futher developement. Creating a low fidelity prototype is an essential step in the app development process, as it allows me to test my ideas and gather feedback from potential users.
+For more detail on how this was made and feedback it provided, click here: [Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_5/)
 
 ![wite sketch](wireflow.jpeg)
 
-For more detail on how this was made click here: [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_5)
 
 
-## graphic design element variation 
+
+
+
+## Graphic Design Element Variation 
 Interface and graphic design is important because it is a main factor contributing to user-friendlyness. The goal is to turn our low fidelity designs into a digitized design with a more developed style. This is achieved through color palletes, shape variations, and typographic variations. The dimentions of the frame for the app was done so using an iphone 14 screen size in an online design program called Figma. Figma is what i used to create more detailed wireframes, but for now I will get into some design choices I've had to make before continuing. Figma allowed me to easily keep all the design choices availible for me to make more frames in the future.
 
 I created a light and dark mode after extensive research with collor pallete and spacing. The final product is below:

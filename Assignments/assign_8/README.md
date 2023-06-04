@@ -108,8 +108,7 @@ In this phase of testing, I have made three tasks on my app interactive. I teste
 
 The interactive protoype can be seen here: [here](https://www.figma.com/proto/nL6wYmiN5iINa6u0IRRIMt/Final-Prototype?type=design&node-id=1-1730&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1730)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnL6wYmiN5iINa6u0IRRIMt%2FFinal-Prototype%3Ftype%3Ddesign%26node-id%3D1-290%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A1730" allowfullscreen></iframe>
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnL6wYmiN5iINa6u0IRRIMt%2FFinal-Prototype%3Ftype%3Ddesign%26node-id%3D1-1730%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A1730" allowfullscreen></iframe>
 
 
 

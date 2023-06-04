@@ -59,13 +59,12 @@ The contextual inquiry conducted revealed unexpected insights into users' prefer
 ## UX Storytelling 
 User Experience (UX) storytelling is a technique used in designing and creating digital products and services that aim to engage users by appealing to their emotions, needs, and desires. It is the art of crafting a narrative that connects users with a product or service, and it is a crucial part of UX design. The purpose of UX storytelling is to create a user-centered design approach that prioritizes empathy and understanding of the user's needs, preferences, and behaviors. This approach allows designers to create more engaging and meaningful experiences that connect with users on a deeper level, which ultimately leads to higher user satisfaction, loyalty, and retention. In this way, UX storytelling is an essential tool for designers seeking to create digital products and services that are both functional and emotionally impactful.
 
-I created some personas and empathy maps of the demographics that would be usong my app. For example:
+I created some personas and empathy maps of the demographics that would be usong my app. These personas help show what users may be in need for my tele watch app. The full story can be seen here. [Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_4/)
+
 
 Persona             |  Empathy Map
 :-------------------------:|:-------------------------:
 ![persona](Daniella.png)  |  ![story map](D_emp.png)
-
-These personas help show what users may be in need for my tele watch app. The full story can be seen here. [Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_4/)
 
 
 
@@ -88,19 +87,20 @@ For more detail on how this was made and feedback it provided, click here: [Clic
 
 
 ## Graphic Design Element Variation 
+
 Interface and graphic design is important because it is a main factor contributing to user-friendlyness. The goal is to turn our low fidelity designs into a digitized design with a more developed style. This is achieved through color palletes, shape variations, and typographic variations. The dimentions of the frame for the app was done so using an iphone 14 screen size in an online design program called Figma. Figma is what i used to create more detailed wireframes, but for now I will get into some design choices I've had to make before continuing. Figma allowed me to easily keep all the design choices availible for me to make more frames in the future.
 
-I created a light and dark mode after extensive research with collor pallete and spacing. The final product is below:
+I created a light and dark mode after extensive research with collor pallete and spacing. For more details on how I came to choose these design choices check here: [Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_6/)
 
 ![light and dark mode](mode.png)
 
-For more details on how i came to choose these design choices check here: [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_6)
+
 
 
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-In order to get to this stage, I started with an idea, created a low fidelity prototype, conducted multiple rounds of testing, then finally created the high fidelity prototype in figma. After designing the colors and layouts of each screen, figma allowed me to also make the prototype interactive with some buttons that will allow me to test outthe flow later.
+In order to get to this stage, I started with an idea, created a low fidelity prototype, conducted multiple rounds of testing, then finally created the high fidelity prototype in figma. After designing the colors and layouts of each screen, figma allowed me to also make the prototype interactive with some buttons that will allow me to test outthe flow later. For more details on how I designed this prototype: [Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_7/)
 
 ![high fidelity](basicDesign.png)
 
@@ -108,10 +108,12 @@ In this phase of testing, I have made three tasks on my app interactive. I teste
 
 The interactive protoype can be seen here: [here](https://www.figma.com/proto/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=4-101&scaling=scale-down&page-id=0%3A1)
 
-[![Ineractive prototype](https://www.figma.com/proto/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=4-101&scaling=scale-down&page-id=0%3A1)
-
-
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJoG48N0CxSEeutdR6lSq0O%2FHigh-Fidelity-Prototype%3Ftype%3Ddesign%26node-id%3D4-101%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+
+
+
+
+
 
 
 ## Optional evaluation and revision history 

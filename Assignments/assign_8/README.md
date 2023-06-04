@@ -126,5 +126,5 @@ The visual design and branding of the app were also important elements in the de
 
 Lastly, the iterative design process, incorporating multiple rounds of testing and user feedback, proved essential in refining the app's features and usability. Through user feedback, issues such as unclear buttons, difficulties in finding specific features, and confusion with certain menus were identified. These insights informed iterative changes and updates to the design, allowing for continuous improvement and a more user-friendly experience.
 
-In conclusion, the design process for the Tele-Watch Party app provided valuable lessons in user-centered design, simplicity, media sharing, visual design, and iterative design. By embracing these principles and incorporating user feedback, the app was able to evolve into an intuitive, user-friendly, and visually appealing platform that facilitates seamless communication and media sharing among friends and family.
+Overall, the design process for the Tele-Watch Party app provided valuable lessons in user-centered design, simplicity, media sharing, visual design, and iterative design. By embracing these principles and incorporating user feedback, the app was able to evolve into an intuitive, user-friendly, and visually appealing platform that facilitates seamless communication and media sharing among friends and family.
 

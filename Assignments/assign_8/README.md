@@ -1,4 +1,4 @@
-theme: Merlot
+
 # Tele-Watch Party App
 by Sarah Redden
 

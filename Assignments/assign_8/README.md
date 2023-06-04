@@ -2,9 +2,9 @@
 # Tele-Watch Party App
 by Sarah Redden
 
-## Introduction: 
+## Introduction 
 
-The Covid-19 pandemic has highlighted the importance of staying connected with loved ones while maintaining social distancing. With people being forced to stay at home, many turned to technology as a means of staying connected. However, the sudden surge in demand has led to a number of hastily put-together solutions that are often unreliable and lack user-friendliness.
+The Covid-19 pandemic has highlighted the importance of staying connected with loved ones while maintaining social distancing. With people being forced to stay at home, many turned to technology as a means of staying connected. I for one loved to talk with friends and watch shows and movies with them to fill up all the free time I had. However, the sudden surge in demand has led to a number of hastily put-together solutions that are often unreliable and lack user-friendliness.
 
 To address this issue, the focus of this project is on developing an app that is specifically designed to facilitate seamless communication between friends and family members who are not physically together. The app will leverage the best aspects of existing communication platforms and incorporate new features to enhance the overall user experience.
 
@@ -15,45 +15,62 @@ The ultimate goal of this project is to create an app that serves as a one-stop-
 
 
 
-## Design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
-For my project I developed an app called Tele-Watch Party. It is a social app designed to help people of all ages stay connected with their friends and family. With this app, users can create groups, chat, and join group calls, making it easy to catch up with loved ones from anywhere in the world. One of the standout features of Tele-Watch Party is its Tele-Watch button, which allows users to share movies or shows from popular streaming services such as Netflix, Hulu, Disney+, or HBO Max. This means that users can watch their favorite shows together in real-time, no matter where they are located. They can also do this while on a call, which isnt popular in any apps currently.
+## Design Statement 
 
-Recently, I conducted some user research on some similar competitor apps currently availible. After various testing I found that there are some major problems that make it very difficult for users to share shows:
+The purpose of this project is to design and develop an intuitive and user-friendly app, called Tele-Watch Party, that enables seamless communication and media sharing among friends and family members who are physically apart. The app will address the limitations found in existing competitor apps by providing a simplified user experience, allowing users to create groups, engage in messaging, initiate group calls, and easily share movies and shows from popular streaming services.
 
-* Some apps like discord are more complecated, which turns users awat from even trying.
-* Ohter apps like zoom don't provide steps to get arould the blocking features streaming apps have to prevent users from sharing their screen
-* Apps made specifically for sharing movies don't allow for calls at the same time. They just include a chat message feature
-* 
-I wanted to take these problems into consideration when designing this new app geared specifically for media sharing. I wanted to make it simple, and as intuitive as possible. In order to do that, I conducted research testing alongside developement.
+The design process will involve thorough user research and testing to ensure simplicity and ease of use. The app will feature a clean and intuitive interface, enabling users to navigate effortlessly and access key functionalities. Emphasis will be placed on integrating the app's messaging page and call features, allowing users to engage in real-time conversations while watching media together.
+
+To address the challenges identified during user research, the app will overcome complexities found in certain competitor apps by providing a streamlined user experience. Additionally, the app will circumvent blocking features implemented by streaming services, ensuring users can share their screens and watch shows simultaneously.
+
+Incorporating user feedback and iterative testing will be crucial throughout the development process to refine the app's features and enhance its overall usability. The design will prioritize simplicity, group creation, messaging capabilities, group calling, and seamless media sharing, making Tele-Watch Party a comprehensive and user-centric solution for staying connected in a digital world.
+
+By leveraging the insights gained from user research and addressing the shortcomings of existing apps, Tele-Watch Party aims to be the go-to app for friends and family seeking to connect, chat, and enjoy shared media experiences, ultimately fostering strong bonds and maintaining social connections irrespective of physical distance.
 
 
-## Competitor analysis [assignment01 & 02]:
+
+
+
+## Competitor Analysis
+
 Cmpeting apps such as Kast and Discord, allow people to stream content from various sources, including YouTube and Amazon Prime Video, and interact with their friends in real-time through a chat function. These apps have provided a new way for people to bond over shared interests and engage in virtual movie nights with loved ones, even when separated by distance. These apps are great ideas, but have some limitations in terms of conection.
 
 The rise of online streaming apps and platforms during the COVID-19 pandemic has not only revolutionized the way people consume entertainment, but also provided a means of staying connected with family and friends. These apps have become a popular way for people to share experiences, enjoy movie nights together, and feel closer despite being physically apart.
 
 I conducted some research on these existing apps using Jakob Nielson's 10 Usability Heuristics which can be found in the link below:
-[Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_1)
+[Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_1/)
 
 I also cinducted some live usability testing to see what users are looking for in these apps and what is currently wrong with them:
-[Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_2)
-
-
-## User research [contextual inquiry, assignment04]:
-In order to conduct some research on how people typically share media and chat with friends, I decided to use conduct a contextual inquiry with my participants. I decided to conduct an interview with 2 participants and see what apps they prefer to use given certain scenarios. The link to this research can be found here: 
-[Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_3)
+[Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_2/)
 
 
 
-## UX storytelling [persona+scenario, assignment05]
+
+## User Research
+In order to conduct some research on how people typically share media and chat with friends, I decided to use conduct a contextual inquiry with my participants. I conducted an interview with 2 participants and saw what apps they prefer to use given certain scenarios. The link to this research can be found here: 
+[Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_3/)
+
+The contextual inquiry conducted revealed unexpected insights into users' preferences and behaviors regarding social media and media sharing apps. Participants showed a preference for familiar apps rather than learning new ones, emphasizing the importance of user-friendliness and easy adoption for app developers. Users tend to avoid tasks they perceive as difficult or confusing, highlighting the need for intuitive designs, especially for less tech-savvy individuals. The dislike of Discord, despite its popularity for media sharing, suggests the need for diverse app options that cater to different user needs and preferences. Overall, the research provided valuable insights that can inform future app development and design decisions, emphasizing the importance of understanding user behavior and attitudes.
+
+
+
+
+
+## UX Storytelling 
 User Experience (UX) storytelling is a technique used in designing and creating digital products and services that aim to engage users by appealing to their emotions, needs, and desires. It is the art of crafting a narrative that connects users with a product or service, and it is a crucial part of UX design. The purpose of UX storytelling is to create a user-centered design approach that prioritizes empathy and understanding of the user's needs, preferences, and behaviors. This approach allows designers to create more engaging and meaningful experiences that connect with users on a deeper level, which ultimately leads to higher user satisfaction, loyalty, and retention. In this way, UX storytelling is an essential tool for designers seeking to create digital products and services that are both functional and emotionally impactful.
 
 I created some personas and empathy maps of the demographics that would be usong my app. For example:
-![persona](Daniella.png)
-![story map](D_emp.png)
 
-These personas help show what users may be in need for my tele watch app. The full story can be seen here. [Click Here](https://github.com/sarahsr6/DH110/tree/main/Assignments/assign_4)
+Persona             |  Empathy Map
+:-------------------------:|:-------------------------:
+![persona](Daniella.png)  |  ![story map](D_emp.png)
+
+These personas help show what users may be in need for my tele watch app. The full story can be seen here. [Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_4/)
+
+
+
+
+
 
 
 ## Wireframe Sketch / Low Fidelity Prototype

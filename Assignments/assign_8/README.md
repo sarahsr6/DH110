@@ -106,7 +106,7 @@ In order to get to this stage, I started with an idea, created a low fidelity pr
 
 In this phase of testing, I have made three tasks on my app interactive. I tested the flow of my app and usability with these tasks. First I tested if users can figure out how to create a new group. Then I tested to see if thay can easily figure out how to share a streaming site with friends. Finally checked if they were able to end the call and log out. Since my app is interactive now, it will be like we are testing the real app while still being able to make changes in design if things still need to be changed.
 
-The interactive protoype can be seen here: [here](https://www.figma.com/proto/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=4-101&scaling=scale-down&page-id=0%3A1)
+The interactive protoype can be seen here: [here](https://www.figma.com/proto/nL6wYmiN5iINa6u0IRRIMt/Final-Prototype?type=design&node-id=1-1730&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1730)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnL6wYmiN5iINa6u0IRRIMt%2FFinal-Prototype%3Ftype%3Ddesign%26node-id%3D1-290%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A1730" allowfullscreen></iframe>
 

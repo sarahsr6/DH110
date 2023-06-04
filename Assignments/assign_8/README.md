@@ -99,7 +99,7 @@ I created a light and dark mode after extensive research with collor pallete and
 
 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-Fidelity Prototype 
 In order to get to this stage, I started with an idea, created a low fidelity prototype, conducted multiple rounds of testing, then finally created the high fidelity prototype in figma. After designing the colors and layouts of each screen, figma allowed me to also make the prototype interactive with some buttons that will allow me to test outthe flow later. For more details on how I designed this prototype: [Click Here](https://sarahsr6.github.io/DH110/Assignments/assign_7/)
 
 ![high fidelity](basicDesign.png)

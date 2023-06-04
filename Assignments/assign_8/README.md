@@ -96,7 +96,7 @@ The interactive protoype can be seen here: [here](https://www.figma.com/proto/Jo
 
 <iframe style=“border: 1px solid rgba(0, 0, 0, 0.1);” width=“800” height=“450” src=“https://www.figma.com/file/JoG48N0CxSEeutdR6lSq0O/High-Fidelity-Prototype?type=design&node-id=0-1&t=YWSgCPkDr7cKlEsY-0” allowfullscreen></iframe>
 
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FO7fSlTmmPFmKkmCB7OhPwB%2F150-Final-Project-week-8%3Fnode-id%3D5%253A2989%26scaling%3Dcontain" allowfullscreen></iframe>
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)

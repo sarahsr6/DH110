@@ -112,16 +112,19 @@ The interactive protoype can be seen here: [here](https://www.figma.com/proto/nL
 
 
 
-
-
-
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
-
-
 ## Pitch video 
 
 
-## Conclusion: what did you learn throughout the process?
+## Conclusion
+Throughout the process of designing and developing the Tele-Watch Party app, several key learnings about the design process were acquired. First and foremost, user-centered design emerged as a critical principle. Conducting comprehensive user research, including contextual inquiries, interviews, and usability testing, provided valuable insights into user preferences, needs, and behaviors. This information served as a foundation for making design decisions that aligned with user expectations and requirements. By placing the user at the center of the design process, the app was tailored to meet their needs effectively.
 
+Simplicity and ease of use emerged as significant considerations in the design process. Users expressed a strong preference for intuitive and user-friendly apps, while complexity and steep learning curves were major turn-offs. The creation of wireframe sketches and low-fidelity prototypes allowed for early testing and validation of design ideas, facilitating the identification and resolution of potential usability issues. These early-stage prototypes provided valuable feedback and helped refine the user interface to ensure a straightforward and seamless user experience.
+
+Furthermore, the research and user feedback emphasized the importance of media sharing and communication features in the app. Users desired a seamless experience for watching movies and shows together while engaging in real-time conversations. This feedback guided the design decisions, resulting in the inclusion of features such as group creation, streaming site sharing, and group calls in the high-fidelity prototype. These features were integrated to enable users to connect, chat, and enjoy shared media experiences in a single platform.
+
+The visual design and branding of the app were also important elements in the design process. Choices such as color palettes, shape variations, and typography played a crucial role in creating an aesthetically pleasing and cohesive design. By carefully considering these graphic design elements, the high-fidelity prototype presented a visually appealing interface that aimed to enhance the user experience and provide a visually engaging platform for users.
+
+Lastly, the iterative design process, incorporating multiple rounds of testing and user feedback, proved essential in refining the app's features and usability. Through user feedback, issues such as unclear buttons, difficulties in finding specific features, and confusion with certain menus were identified. These insights informed iterative changes and updates to the design, allowing for continuous improvement and a more user-friendly experience.
+
+In conclusion, the design process for the Tele-Watch Party app provided valuable lessons in user-centered design, simplicity, media sharing, visual design, and iterative design. By embracing these principles and incorporating user feedback, the app was able to evolve into an intuitive, user-friendly, and visually appealing platform that facilitates seamless communication and media sharing among friends and family.
 

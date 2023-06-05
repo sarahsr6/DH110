@@ -113,7 +113,7 @@ The interactive protoype can be seen here: [here](https://www.figma.com/proto/nL
 
 
 ## Pitch video 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l8FxQDEoziE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/URRiXc9gLhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Conclusion
 Throughout the process of designing and developing the Tele-Watch Party app, several key learnings about the design process were acquired. First and foremost, user-centered design emerged as a critical principle. Conducting comprehensive user research, including contextual inquiries, interviews, and usability testing, provided valuable insights into user preferences, needs, and behaviors. This information served as a foundation for making design decisions that aligned with user expectations and requirements. By placing the user at the center of the design process, the app was tailored to meet their needs effectively.
